@@ -40,10 +40,10 @@ The goal is to predict the likelihood of CAD using these features.
 
 ## 🧠 Machine Learning Models Used
 The notebook explores multiple models including: 
-   ✔️ Logistic Regression
-   ✔️ Random Forest Classifier
-   ✔️ Support Vector Machine (SVM)
-   ✔️ Neural Networks (if applicable)
+   - ✔️ Logistic Regression
+   - ✔️ Random Forest Classifier
+   - ✔️ Support Vector Machine (SVM)
+   - ✔️ Neural Networks (if applicable)
 
 Models are evaluated based on accuracy, precision, recall, and AUC-ROC scores.
 
@@ -55,13 +55,13 @@ Provides interpretability for medical decision-making.
 ## 🤝 Contributing
 Feel free to contribute by:
 
-🛠 Improving the model or feature engineering.
-🔍 Adding new datasets or improving data preprocessing.
-📝 Enhancing documentation and visualization.
+- 🛠 Improving the model or feature engineering.
+- 🔍 Adding new datasets or improving data preprocessing.
+- 📝 Enhancing documentation and visualization.
 ## 📜 License
 This project is licensed under the MIT License – you can freely use, modify, and distribute it.
 
 ## 📬 Contact
 For any questions or collaboration requests, reach out at:
-📧 Email: janshimy@gmail.com
-🔗 LinkedIn: linkedin.com/in/janshimy
+- 📧 Email: janshimy@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/janshimy
